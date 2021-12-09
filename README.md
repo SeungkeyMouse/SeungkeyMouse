@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started:
 <!--백준티어-->
+백준
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={ksg19980})](https://solved.ac/{ksg19980})
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={ksg19980})](https://solved.ac/{ksg19980})
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={ksg19980})](https://solved.ac/{ksg19980})
 
 <!--아이콘-->
+Icons of Stacks
 <img src="https://img.shields.io/badge/{icons}?style={style}&logo={logo_name}&logoColor=white"/></a>&nbsp 
 
 - 🔭 I’m currently working on ...
