@@ -6,7 +6,6 @@
 
 Here are some ideas to get you started:
 <!--백준티어-->
-백준
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksg19980)](https://solved.ac/ksg19980)
 
 
