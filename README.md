@@ -1,13 +1,12 @@
-### Hi there 👋
+## 👋 I wish you have a lucky day 👋
 
 <!--
 **SeungkeyMouse/SeungkeyMouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 Here are some ideas to get you started:
+
 <!--백준티어-->
-<!--백준티어-->
-### Problem Solving / Online Judge 💻
+### 💻 Problem Solving / Online Judge 
 <blockquote>
   <p>
     Data Structure, Algorithm
@@ -15,13 +14,13 @@ Here are some ideas to get you started:
     Using Java
   </p>
 </blockquote>
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksg19980)](https://solved.ac/ksg19980)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksg19980)](https://solved.ac/ksg19980/)
 
 
 <!--아이콘-->
-My Stacks
-<p align="center">
+### This is my Stacks 🌱
+<p align="left-align">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -30,12 +29,9 @@ My Stacks
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!--소개-->
+<p>
+  <br>
+  💬 My Blog : https://skmouse.tistory.com/
+</p>
