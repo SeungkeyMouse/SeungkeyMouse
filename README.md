@@ -6,9 +6,17 @@
 
 Here are some ideas to get you started:
 <!--백준티어-->
-<p align="center">
-  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksg19980)](https://solved.ac/ksg19980)
-</p>
+<!--백준티어-->
+### Problem Solving / Online Judge 💻
+<blockquote>
+  <p>
+    Data Structure, Algorithm
+    <br>
+    Using Java
+  </p>
+</blockquote>
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksg19980)](https://solved.ac/ksg19980)
+
 
 
 <!--아이콘-->
