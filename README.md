@@ -5,11 +5,10 @@
 
 
 Here are some ideas to get you started:
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={ksg19980})](https://solved.ac/{ksg19980})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={ksg19980})](https://solved.ac/{ksg19980})
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={ksg19980})](https://solved.ac/{ksg19980})
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksg19980)](https://solved.ac/ksg19980/)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={ksg19980})](https://solved.ac/{ksg19980})
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
