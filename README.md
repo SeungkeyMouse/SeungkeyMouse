@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ### 💻 Problem Solving / Online Judge 
 <blockquote>
   <p>
-    Data Structure, Algorithm
+    SpringBoot, JPA, Android, Data Structure, Algorithm
     <br>
     Using Java
   </p>
@@ -33,5 +33,7 @@ Here are some ideas to get you started:
 <!--소개-->
 <p>
   <br>
-  💬 My Blog : https://skmouse.tistory.com/
+  💬 My Blog(기술블로그) : <a href=https://skmouse.tistory.com/>Click</a>
+</p>
+  💬 My Notion(포트폴리오) : <a href=https://artistic-journey-aea.notion.site/14bc0d790d1845f1ab5840a6ecaf975d>Click</a>
 </p>
